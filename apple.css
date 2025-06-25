@@ -226,10 +226,11 @@
     font-weight: 600;
 }
 .apple-specialist{
-     
+    
    position: relative;
    right: 1300px;
    top: 600px;
+   
    
 }
 .img5{
@@ -244,20 +245,129 @@
     font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
     color: #424245;
     font-size: 12px;
+    
 }
 .shopone{
     
      position: relative;
-     bottom: 490px;
-     left: 460px; 
+      bottom: 490px; 
+      left: 460px;  
+     display: flex;
     font-size: 28px;
     font-weight:bolder;
+    overflow: auto;
 }
 .explore{
 
-margin: 20px;
-}
-.img5{
-    width: 500px;
+margin: 10px;
+width: 500px;
     height: 500px;
+    border-radius: 20px;
+position: relative;
+left: 350px;
+bottom:11px;
 }
+.todayat{
+    font-size:12px ;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+      bottom: 485px;
+      left: 400px;
+    
+}
+.exploreapple{
+    font-size: 28px;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    position: relative;
+     bottom: 480px;
+      left: 400px;
+}
+.comeandtry{
+    font-size: 17px;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    bottom: 470px;
+    left:400px;
+}
+.join{
+    margin: 10px;
+
+   
+position: relative;
+left: 1230px;
+bottom:520px;
+}
+.img6{
+width: 500px;
+    height: 500px;
+    border-radius: 20px;
+}
+.todayat2{
+     font-size:12px ;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+      bottom: 485px;
+      left: 40px;
+}
+ .joinfree{
+     font-size: 28px;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    position: relative;
+     bottom: 480px;
+      left: 40px;
+ }
+ .learn{
+     font-size: 17px;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    bottom: 470px;
+    left:40px;
+ }
+ .text4{
+    font-size: 28px;
+   font-family:  SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    
+    position: relative;
+    bottom:600px;
+    left:200px;
+    
+ }
+.card1col1{
+    width: 313px;
+    height: 214px;
+    border-radius: 20px;
+    background-color:white;
+    /* align-content: flex-start; */
+    position: relative;
+    bottom: 550px;
+    left: 200px;
+}
+.card1col1 p{
+    font-size: 24px;
+    font-weight: 300;
+    
+    position: relative;
+   font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    top: 50px;
+    left: 20px;
+    display: flex;
+    text-decoration: none;
+}
+.atmcard{
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+.card1col2{
+ width: 313px;
+    height: 214px;
+    border-radius: 20px;
+    background-color:white;
+        position: relative;
+    bottom: 760px;
+    left: 550px;
+}
+ 
